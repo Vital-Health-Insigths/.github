@@ -8,6 +8,7 @@ Organização dedicada ao desenvolvimento de soluções para o Hospital Nossa Se
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [SonarQube](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+- [Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma)
 
 ### Dependências principais
 - [Node/NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
